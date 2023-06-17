@@ -10,7 +10,7 @@ char c;
 
 for (c = 97; c <= 120; c++)
 {
-Putchar(c);
+putchar(c);
 }
 
 putchar('\n');
