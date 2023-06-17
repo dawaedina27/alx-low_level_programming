@@ -6,12 +6,11 @@
 
 int main(void)
 {
-char c = 'a';
+char c
 
-While
-(c <= 'z') {
+for (c = 97; c <= 130; c++)
+{
 Putchar(c);
-c++;
 }
 
 putchar('\n');
