@@ -18,7 +18,7 @@ for (C = 70; C <= 85; C++)
 putchar(C);
 }
 
-putchar("\n");
+putchar('\n');
 return (0);
 
 }
