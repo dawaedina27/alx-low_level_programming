@@ -8,12 +8,12 @@ int main(void)
 char c;
 char C;
 
-for (c = 50; c <= 85; c++)
+for (c = 97; c <= 122; c++)
 {
 putchar(c);
 }
 
-for (C = 70; C <= 85; C++)
+for (C = 65; C <= 90; C++)
 {
 putchar(C);
 }
