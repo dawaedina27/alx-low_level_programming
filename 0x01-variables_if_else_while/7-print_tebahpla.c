@@ -1,17 +1,16 @@
 #include <stdio.h>
 
 /**
- * main - Prints numbers from 0 to 9.
+ * main -  prints the lowercase alphabet in reverse
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-	int i;
+	char ch;
 
-	for (i = 0; i < 10; i++)
+	for (ch = 122; ch >= 97; ch--)
 	{
-		printf("%d", i);
+		putchar(ch);
 	}
 	putchar('\n');
 	return (0);
-}
