@@ -12,10 +12,13 @@ for (c = 50; c <= 105; c++)
 {
 putchar(c);
 }
+
 for (C = 70; C <= 85; C++)
 {
 putchar(C);
 }
+
 putchar("\n");
 return (0);
+
 }
