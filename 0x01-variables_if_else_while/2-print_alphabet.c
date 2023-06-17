@@ -3,16 +3,17 @@
  * main - Entry path
  * Return: Always 0 (success)
  */
+
 int main(void)
 {
-char c,
-c = 'a';
+char c = 'a';
+
 While
-(c <= 'z')
-{
+(c <= 'z'){
 Putchar(c);
 c++;
 }
 
 putchar('\n');
+
 return (0);
