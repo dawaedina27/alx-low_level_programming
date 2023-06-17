@@ -6,7 +6,7 @@
 
 int main(void)
 {
-char c
+char c;
 
 for (c = 97; c <= 130; c++)
 {
