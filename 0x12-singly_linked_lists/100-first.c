@@ -5,7 +5,7 @@
  * Author: Dawa Edina Hillary
  */
 
-void __attribute__((constructor)) first(void);
+void first(void) __attribute__ ((constructor))
 
 /**
  * first - prints a sentence before the main
