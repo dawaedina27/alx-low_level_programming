@@ -1,3 +1,9 @@
+/**
+ * File: 0-print_list.c
+ * Author: Dawa Edina Hillary
+ */
+
+
 #include <stdio.h>
 #include "lists.h"
 
