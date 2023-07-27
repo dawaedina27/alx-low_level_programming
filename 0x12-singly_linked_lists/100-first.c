@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include "lists.h"
 /**
  * File: 100-first.c
  * Author: Dawa Edina Hillary
